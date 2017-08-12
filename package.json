@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "backpack",
+    "build": "backpack build"
+  },
+  "dependencies": {
+    "backpack-core": "^0.4.2"
+  }
+}
